@@ -5,5 +5,5 @@
 * Link: 
 * License: 
 * Category: 
-* [ ] I've confirmed the thing is over one year old  <!-- check with [x] -->
-* [ ] I plan to submit an entry addition pull request  <!-- optional -->
+* [ ] I've confirmed the project is over one year old  <!-- check with [x] -->
+* [ ] I plan to submit an entry inclusion pull request  <!-- optional -->

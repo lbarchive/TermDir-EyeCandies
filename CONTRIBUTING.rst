@@ -34,7 +34,8 @@ Nomination Issue
 ----------------
 
 You can nominate_ a project, if you can't add a pull request or want to see if
-there is an interest of it before composing an entry for addition pull request.
+there is an interest of it before composing an entry for inclusion pull
+request.
 
 .. _nominate: https://github.com/TermDir/EyeCandies/issues/new?template=nomination.md&title=Nominate+name:+description
 
@@ -52,7 +53,7 @@ The inclusion_ pull request:
 * Must have one and only one screenshot.
 * Must follow the template below.
 * Must insert your entry in the list following alphabetical order.
-* Addition will only be merged when it achieves a reasonable amount of
+* Inclusion will only be merged when it achieves a reasonable amount of
   endorsements.
 * Please review the rendered HTML on GitHub before creating pull request.
 * If you are not familiar with reStructuredText, you may want to edit via
