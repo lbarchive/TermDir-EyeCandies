@@ -35,6 +35,31 @@ text attributes, fonts with actual Matrix-looking glyphs for virtual console
 and xterm, you can even make it rainbow!
 
 
+Nyancat_: terminal-based Pop Tart Cat animation
+===============================================
+
+.. _Nyancat: https://github.com/klange/nyancat
+.. figure:: i/Nyancat.png
+   :target: Nyancat_
+
+``NCSA / C / ANSI / telnet / Linux / *BSD``
+
+* Original developer: Kevin Lange in 2011
+* Current maintainer: Kevin Lange since 2011
+
+In 2011, Pop-Tarts and a cat had an unusual union (by Christopher Torres),
+together with the cover song Nyanyanyanyanyanyanya! by Momone Momo, a new breed
+of digital feline was conceived on YouTube, it's called "Nyan Cat," and it has
+since been running in kittigilion-load of computers till today, and still
+nyaning through the galaxy.
+
+And there was Nyancat, one of the first ones to computerize Nyan Cat for
+terminal fanatics' enjoyments, teleporting Nyan Cat and trailing bright colors
+to their terminals,  it may not have many customizations, but it enables you
+with a simple telnet command to its server for endless nyan fix.  Nyancat isn't
+alone, unicorn and little ponies soon to follow.
+
+
 pipes.sh_: Animated pipes terminal screensaver
 ==============================================
 
