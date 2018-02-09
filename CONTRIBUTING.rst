@@ -85,25 +85,12 @@ Template
 
   ``<license> / <main language> / <significant components (*)> / <OSes>``
 
-  {list of key people}
+  * Original developer: <who> in <when>
+  * Current maintainer: <who> since <when>
 
   <description>
   <blank line>
   <blank line>
-
-For ``{list of key people}``, if the original developer still maintains the
-project:
-
-.. code:: rst
-
-  * Developer: <who> in <when>
-
-If it has been taken over:
-
-.. code:: rst
-
-  * Original developer: <who> in <when>
-  * Current maintainer: <who> since <when>
 
 Notes:
 
