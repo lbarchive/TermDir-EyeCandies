@@ -24,10 +24,9 @@ For either type of submissions below:
 
 The project:
 
-* Must be able to be run and understood by users who only speak English.
-* Must be over one year old.
-* Receive reasonable attention.
-* Licensed under open source license or in public domain.
+* Must be over one year old
+* Must be open source or in public domain
+* Must be able to be run and understood by users who only speak English
 
 
 Nomination Issue
