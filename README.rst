@@ -16,20 +16,6 @@ Categories
 * `Screensavers <Screensavers>`_
 
 
-Contributing
-============
-
-Read the `contributing guidelines`_, then
-
-.. _contributing guidelines: CONTRIBUTING.rst
-
-* Submit an entry nomination_ issue
-* Submit an entry inclusion_ pull request
-
-.. _nomination: https://github.com/TermDir/EyeCandies/issues/new?template=nomination.md&title=Nominate+name:+description
-.. _inclusion: https://github.com/TermDir/EyeCandies/compare?template=inclusion.md&title=Include+name:+description
-
-
 Copyright
 =========
 
