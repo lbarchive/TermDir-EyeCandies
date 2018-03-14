@@ -4,10 +4,6 @@ Terminal Eye Candies Directory
 
 *They make your terminal look cool for screenshots!*
 
-**This directory is in early planning stage, please help out in:** `#1`_.
-
-.. _#1: https://github.com/TermDir/EyeCandies/issues/1
-
 
 .. contents:: **Contents**
    :local:
